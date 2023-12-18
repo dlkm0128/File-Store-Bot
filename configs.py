@@ -7,7 +7,7 @@ class Config(object):
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", ""))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "tnshort.net")
-  SHORTLINK_API = os.environ.get('SHORTLINK_API', "3b51e7d3e7c607bc8361c8375485b8898b8f8ea9")
+  SHORTLINK_API = os.environ.get('SHORTLINK_API', "1e7d4e20e77655f3d0de914127b5310cc4f093ca")
   BOT_OWNER = int(os.environ.get("BOT_OWNER", ""))
   DATABASE_URL = os.environ.get("DATABASE_URL", "")
   UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
@@ -32,11 +32,11 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 ╰──────[ 😎 ]───────────⍟
 """
   ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [VJ](https://telegram.me/X_Tamilann)
+🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [Kali_TG](https://telegram.me/Kalitgadmin_Bot)
  
  I am Super noob Please Support My Hard Work.
 
-[Donate Me](https://t.me/X_Tamilann)
+[Donate Me](https://t.me/Kalitgadmin_Bot)
 """
   HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
